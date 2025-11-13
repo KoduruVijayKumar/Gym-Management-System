@@ -13,26 +13,6 @@ A modern gym management platform built with Next.js. Manage members, track atten
 - Fully responsive and mobile-optimized
 - Modern dark theme with smooth animations
 
-## Tech Stack
-
-- Next.js 16
-- React & TypeScript
-- Tailwind CSS v4
-- Shadcn/ui Components
-- Recharts for analytics
-
-## Quick Start
-
-\`\`\`bash
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
-
-# Open http://localhost:3000
-\`\`\`
-
 ## Project Structure
 
 \`\`\`
@@ -55,12 +35,7 @@ app/
 2. Explore the home page and dashboard
 3. Check the responsive design on mobile devices
 
-## Deployment
-
-Deploy directly to Vercel with one click using the Vercel button.
-
 ## Creator
 
 **K. Vijay Kumar Reddy**
 
-Built with Next.js and modern web technologies.
